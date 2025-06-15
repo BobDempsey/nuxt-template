@@ -3,3 +3,4 @@ node_modules/
 .output
 package*.json
 yarn.lock
+.husky
