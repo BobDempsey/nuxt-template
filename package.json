@@ -21,6 +21,13 @@
   },
   "devDependencies": {
     "husky": "^9.1.7",
+    "lint-staged": "^16.1.2",
     "prettier": "^3.5.3"
+  },
+  "lint-staged": {
+   "*": [
+      "npm run format",
+      "npm run lint"
+    ]
   }
 }
