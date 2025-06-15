@@ -9,6 +9,7 @@ To learn more about [Nuxt,](https://nuxt.com) check out the [Nuxt documentation 
 - code linting w/ [@nuxt/eslint](https://nuxt.com/modules/eslint) module
 - [recommended extensions for VSCode](https://code.visualstudio.com/docs/configure/extensions/extension-marketplace#_workspace-recommended-extensions)
 - [prettier code formatter](https://prettier.io/)
+- [conventional git commit message formats](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 
 ### misc for later
 
