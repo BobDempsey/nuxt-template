@@ -4,6 +4,8 @@ This is a starter template for [Nuxt](https://nuxt.com) applications. It provide
 
 To learn more about [Nuxt,](https://nuxt.com) check out the [Nuxt documentation here.](https://nuxt.com/docs/getting-started/introduction)
 
+a test change
+
 ## Features
 
 - code linting w/ [@nuxt/eslint](https://nuxt.com/modules/eslint) module
